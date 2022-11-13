@@ -1,0 +1,6 @@
+Write a findLongestWordLength() function that return the length of the longest word in the provided sentence
+Your response should be a number
+
+Tests
+findLongestWordLength("May the force be with you") should return 5.
+findLongestWordLength("My name is Moussa Kalam AMZAT") should return 6.
