@@ -1,0 +1,8 @@
+Write a truncateString() function that truncates a string
+if it is longer than the given maximum string length.
+First argument: str
+Second argument: num
+
+Tests
+truncateString("Peter Piper picked a peck of pickled peppers", 11) should return the string Peter Piper....
+truncateString("Absolutely Longer", 2) should return the string Ab....
