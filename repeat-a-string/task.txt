@@ -1,0 +1,7 @@
+Write a repeatStringNumTimes() function that repeats a string (str) for (num) times
+Return an empty string if num is not a positive number.
+Do not use the use the built-in .repeat() method.
+
+Tests
+repeatStringNumTimes("*", 3) should return the string ***.
+repeatStringNumTimes("abc", 4) should return the string abcabcabcabc.
