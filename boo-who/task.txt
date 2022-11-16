@@ -1,0 +1,8 @@
+Write a function that checks if a value is classified as a boolean primitive.
+Return true or false. 
+
+Tests
+booWho(true) should return true.
+booWho(false) should return true.
+booWho([1, 2, 3]) should return false.
+booWho([].slice) should return false.
