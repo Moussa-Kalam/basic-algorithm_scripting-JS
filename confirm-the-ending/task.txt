@@ -1,0 +1,7 @@
+Write a confirmEnding() function that checks if a string 
+(first argument, str) ends with the given target string (second argument, target).
+
+Tests
+confirmEnding("JavaScript", "t") should return true
+confirmEnding("Programming is fun", "fun") should return true
+confirmEnding("Programming is fun", "is") should return false.
