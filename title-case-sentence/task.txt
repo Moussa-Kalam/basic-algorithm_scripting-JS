@@ -1,0 +1,8 @@
+Write a titleCase() function that returns the provided string with 
+the first letter of each word capitalized. 
+Make sure the rest of the word is in lower case.
+
+
+Tests
+titleCase("I love programming with JavaScript") should return a string.
+titleCase("I Love Programming with Javascript") should return the string I'm A Little Tea Pot.
